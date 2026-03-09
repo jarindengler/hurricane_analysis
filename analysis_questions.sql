@@ -1,6 +1,6 @@
 -- =====================================================
 -- Hurricane Intensity vs Economic Damage Analysis
--- Author: J
+-- Author: Jarin Dengler
 -- Database: SQLite
 -- Description:
 -- Combines NOAA hurricane intensity data with historical
