@@ -19,7 +19,7 @@ The project focuses on **data cleaning, transformation, and joins across messy r
 
 ---
 
-# 📊 Datasets
+# Datasets
 
 ## 1. HURDAT2 Hurricane Dataset
 
@@ -52,7 +52,7 @@ Storm names required significant normalization before joining due to formatting 
 
 ---
 
-# 🧹 Data Cleaning & Transformation
+# Data Cleaning & Transformation
 
 Key preprocessing steps included:
 
@@ -68,7 +68,7 @@ These transformations allowed the datasets to be **joined reliably**.
 
 ---
 
-# 📈 Final Dataset
+# Final Dataset
 
 The final dataset contains the following fields:
 
@@ -81,7 +81,7 @@ This structure enables direct comparison between **hurricane intensity and econo
 
 ---
 
-# 🧠 SQL Techniques Used
+# SQL Techniques Used
 
 This project demonstrates several core SQL skills:
 
@@ -93,7 +93,7 @@ This project demonstrates several core SQL skills:
 
 ---
 
-# 🔎 Key Analysis Questions
+# Key Analysis Questions
 
 ## Which hurricanes have caused the most economic damage?
 
@@ -150,7 +150,7 @@ This trend is likely influenced by:
 
 ---
 
-# 🧰 Tools Used
+# Tools Used
 
 - **SQL (SQLite)**
 - **DataGrip**
@@ -158,7 +158,7 @@ This trend is likely influenced by:
 
 ---
 
-# 🚀 Future Improvements
+# Future Improvements
 
 Potential extensions for this project include:
 
@@ -169,7 +169,7 @@ Potential extensions for this project include:
 
 ---
 
-# 🌎 Why This Project
+# Why This Project
 
 Climate and extreme weather events have always interested me, and this project allowed me to combine that curiosity with **data analysis**.
 
